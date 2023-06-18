@@ -46,7 +46,11 @@ Anschliessend wurden die eigens für diesen Zweck eingebauten Luken wie Bullauge
 
 Zeitgleich mit dem Aufbau der oberen Etagen musste allerdings das Wasser aus dem Souterrain wiederum in kontrollierter Weise abgepumpt werden. Das weggepumpte Gewicht des Wassers musste dabei dem durch den Bau hinzugefügten Gewicht entsprechen. Ohne diese Massnahme hätte die Kraft des Wassers die Titanic II möglicherweise hochgedrückt.
 
-![Die Aushebung für den Keller der Titanic II](bbl_titanic-ii-aushub_fotograf-b.-nicod-1.jpg)
+<hr>
+
+![Die Aushebung für den Keller der Titanic II [Bildquelle: Bundesamt für Bauten und Logistik, BBL]](bbl_titanic-ii-aushub_fotograf-b.-nicod-1.jpg)
+
+<hr>
 
 # Polizeitaucher und Eindringlinge
 
@@ -102,4 +106,4 @@ Nicht jeder Betrachter ergötzt sich an der symmetrischen Einhaltung der Strasse
 
 Eine weitere architektonische Meisterleistung ist der Appendix, der nur unterirdisch mit dem Hauptbauwerk verbunden ist. Der Appendix - in diesem Fall der «Eisberg» der Titanic II - ist ein Turm, der eine eigene Adresse hat. Bei dem bebauten Areal handelt es sich um ein vergleichbar winziges, schlauchförmiges Grundstück, für das viele Mitbewerber keine Verwendung fanden, weshalb sie es mit einem ebenso schlauchförmigen Gebäudeanhängsel notdürftig bebaut hätten. Rudolf Rast jedoch kam auf die brillante Idee, einen freistehenden Turm zu bauen, der lediglich unter der Erde mit dem Hauptgebäude verbunden ist. Dieser Eisberg, der trotz des Klimawandels nicht schmelzen kann, wurde zum Funkturm und verfügt über höchstmoderne Sicherheitsvorkehrungen. Noch dazu wirkt der «Eisberg» wie der krönende Abschluss einer zu Stein gewordenen Idee: der wahrhaft unsinkbaren Titanic II.
 
-![Der Bauplan der Titanic II](blue-print-komprimiert3.jpg)
+![Der Bauplan der Titanic II [Bildquelle: Bundesamt für Bauten und Logistik, BBL]](blue-print-komprimiert3.jpg)
