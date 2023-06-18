@@ -3,7 +3,7 @@ title = "Die wirklich unsinkbare Titanic"
 date = "2023-06-16"
 draft = false
 pinned = false
-image = "komprimiert.2.tif"
+image = "bbl_titanic-ii-kurz-vor-fertigstellung_fotograf-stefan-weber.1.jpg"
 description = "Eine Reportage über die Titanic II, mit Fokus aus die Entstehung und den Bau des Gebäudes."
 +++
 
@@ -12,7 +12,9 @@ description = "Eine Reportage über die Titanic II, mit Fokus aus die Entstehung
 
 Eines der prachtvollen Gebäude der Stadt Bern, wie es entstand und was der Gedanke dahinter war.
 
- Lange Spiegel Fassaden, hohe Wände, imposante Glasscheiben und Korridore voller Kunst. Ein Schiff auf grundgelaufen inmitten von Bern. Die Schweizer Titanic. {{</lead>}}
+ Lange Spiegel Fassaden, hohe Wände, imposante Glasscheiben und Korridore voller Kunst. Ein Schiff auf grundgelaufen inmitten von Bern. Die Schweizer Titanic.
+
+ {{</lead>}}
 
 Das Gartentor wird von einer sympathisch lächelnden Dame geöffnet. Der Weg dahinter führt in eine herrschaftliche Villa im Jugendstil. Innen ist es angenehm kühl, und die Steinböden verbreiten ein ehrwürdiges Ambiente, wie in einer Kirche.
 
@@ -44,7 +46,7 @@ Anschliessend wurden die eigens für diesen Zweck eingebauten Luken wie Bullauge
 
 Zeitgleich mit dem Aufbau der oberen Etagen musste allerdings das Wasser aus dem Souterrain wiederum in kontrollierter Weise abgepumpt werden. Das weggepumpte Gewicht des Wassers musste dabei dem durch den Bau hinzugefügten Gewicht entsprechen. Ohne diese Massnahme hätte die Kraft des Wassers die Titanic II möglicherweise hochgedrückt.
 
-![](bbl_titanic-ii-aushub_fotograf-b.-nicod-4.tif)
+![](bbl_titanic-ii-aushub_fotograf-b.-nicod-1.jpg)
 
 # Polizeitaucher und Eindringlinge
 
@@ -99,3 +101,5 @@ Es kommt einer architektonischen Meisterleistung gleich, den Anschein zu erwecke
 Nicht jeder Betrachter ergötzt sich an der symmetrischen Einhaltung der Strassenflucht. Kritiker erachten den «Schiffsbug» als ein schreckliches Bauelement, das ihnen den Eindruck ermittelt, auf ihren Kopf zu fallen.
 
 Eine weitere architektonische Meisterleistung ist der Appendix, der nur unterirdisch mit dem Hauptbauwerk verbunden ist. Der Appendix - in diesem Fall der «Eisberg» der Titanic II - ist ein Turm, der eine eigene Adresse hat. Bei dem bebauten Areal handelt es sich um ein vergleichbar winziges, schlauchförmiges Grundstück, für das viele Mitbewerber keine Verwendung fanden, weshalb sie es mit einem ebenso schlauchförmigen Gebäudeanhängsel notdürftig bebaut hätten. Rudolf Rast jedoch kam auf die brillante Idee, einen freistehenden Turm zu bauen, der lediglich unter der Erde mit dem Hauptgebäude verbunden ist. Dieser Eisberg, der trotz des Klimawandels nicht schmelzen kann, wurde zum Funkturm und verfügt über höchstmoderne Sicherheitsvorkehrungen. Noch dazu wirkt der «Eisberg» wie der krönende Abschluss einer zu Stein gewordenen Idee: der wahrhaft unsinkbaren Titanic II.
+
+![Der Bauplan der Titanic II](blue-print-komprimiert3.jpg)
