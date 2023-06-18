@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "bbl_titanic-ii-kurz-vor-fertigstellung_fotograf-stefan-weber.1.jpg"
-description = "Eine Reportage über die Titanic II, mit Fokus aus die Entstehung und den Bau des Gebäudes."
+description = "Eine Reportage über die Titanic II, mit Fokus auf die Entstehung und den Bau des Gebäudes."
 +++
 
 
