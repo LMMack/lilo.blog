@@ -8,6 +8,8 @@ description = "Eines der prachtvollen Gebäude der Stadt Bern, wie es entstand u
 +++
 Lange Spiegel Fassaden, hohe Wände, imposante Glasscheiben und Korridore voller Kunst. Ein Schiff auf grundgelaufen inmitten von Bern. Die Schweizer Titanic.
 
-# Titel1 
+# Titel1
 
-text text
+text text 
+
+![](blue-print-komprimiert3.jpg)
