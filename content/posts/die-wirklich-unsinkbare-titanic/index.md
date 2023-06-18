@@ -14,7 +14,7 @@ Eines der prachtvollen Gebäude der Stadt Bern, wie es entstand und was der Geda
 
 {{</lead>}}
 
-
+<hr>
 
 Das Gartentor wird von einer sympathisch lächelnden Dame geöffnet. Der Weg dahinter führt in eine herrschaftliche Villa im Jugendstil. Innen ist es angenehm kühl, und die Steinböden verbreiten ein ehrwürdiges Ambiente, wie in einer Kirche.
 
@@ -28,6 +28,8 @@ Die Bundesverwaltungen brauchten mehr Platz, ein neues Gebäude musste her. Den 
 
 Die Wahl des Standorts fiel auf das zentral in Bern gelegene «Loch im Mattenhofquartier», das Emch-Loch, ein morastiges Gelände am tiefsten Punkt des Mattenhofquartiers. Hier floss der Sulgenbach der Aare zu und wurde schon früher von Mühlen und Werkstätten als Energiequelle genutzt. Das Grundwasser stand so hoch, dass sprichwörtlich im Wasser gebaut werden musste.
 
+<hr>
+
 {{<box>}}
 
 ## Sulgenaubach
@@ -35,6 +37,8 @@ Die Wahl des Standorts fiel auf das zentral in Bern gelegene «Loch im Mattenhof
  Der Sulgenbach oder auch Könizbach ist ein Bach der sich durch die gebiete Bern und Köniz zieht. Der Bach ist Acht Kilometer lang. Der Sulgenbach gehört zum Flies System der Aare und fliest in diese ab. Er fliest durch das Gebiet der Monbijou wo es fiele kleine Bächlein giebt.
 
  {{</box>}}
+
+<hr>
 
 # Der turbulente Bau des Gebäudes
 
@@ -86,6 +90,8 @@ Die erste Titanic sank, und hunderte Menschen kamen grausam ums Leben. Ist das P
 
 Dann endlich bricht die letzte Nacht vor der Projektabgabe ein. Es ist bereits drei Uhr, und die letzte Projektskizze ist soeben fertiggestellt worden. Das Einzige, das fehlt, ist der Name für das ganze Projekt. Da fällt dem total übermüdeten Architekten ein Zeitungsartikel ein, den er am vergangenen Morgen gelesen hat. In diesem steht, dass man die gesunkene Titanic gefunden habe. Rudolf Rast merkt seinen Mitarbeitern gegenüber an, dass die untergegangene Titanic eher wieder fahrtüchtig sein werde, als dass ihr Projekt den Bauwettbewerb gewinnen würde. Als der Architekt am nächsten Morgen sein Büro betritt, sind alle Projektskizzen mit «Titanic II» betitelt.
 
+<hr>
+
 {{<box>}}
 
 ## Die Titanic
@@ -95,6 +101,8 @@ Die Titanic, ein berühmtes Passagierschiff, das im frühen 20. Jahrhundert geba
 Das Innere war opulent gestaltet mit hochwertigen Materialien wie Holz, Marmor und kunstvollen Verzierungen dabei vereinte es verschiedene Stile. Die Titanic sank tragischerweise im Jahr 1912 durch eine Kollision mit einem Eisberg, doch ihre Architektur bleibt ein eindrucksvolles Zeugnis menschlicher Ingenieurskunst und des Luxus jener Zeit.
 
 {{</box>}}
+
+<hr>
 
 # Bauliche Meisterleistung oder architektonisches Verbrechen?
 
@@ -106,4 +114,8 @@ Nicht jeder Betrachter ergötzt sich an der symmetrischen Einhaltung der Strasse
 
 Eine weitere architektonische Meisterleistung ist der Appendix, der nur unterirdisch mit dem Hauptbauwerk verbunden ist. Der Appendix - in diesem Fall der «Eisberg» der Titanic II - ist ein Turm, der eine eigene Adresse hat. Bei dem bebauten Areal handelt es sich um ein vergleichbar winziges, schlauchförmiges Grundstück, für das viele Mitbewerber keine Verwendung fanden, weshalb sie es mit einem ebenso schlauchförmigen Gebäudeanhängsel notdürftig bebaut hätten. Rudolf Rast jedoch kam auf die brillante Idee, einen freistehenden Turm zu bauen, der lediglich unter der Erde mit dem Hauptgebäude verbunden ist. Dieser Eisberg, der trotz des Klimawandels nicht schmelzen kann, wurde zum Funkturm und verfügt über höchstmoderne Sicherheitsvorkehrungen. Noch dazu wirkt der «Eisberg» wie der krönende Abschluss einer zu Stein gewordenen Idee: der wahrhaft unsinkbaren Titanic II.
 
+<hr>
+
 ![Der Bauplan der Titanic II [Bildquelle: Bundesamt für Bauten und Logistik, BBL]](blue-print-komprimiert3.jpg)
+
+<hr>
