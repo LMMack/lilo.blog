@@ -1,7 +1,7 @@
 +++
 title = "Die wirklich unsinkbare Titanic"
 date = "2023-06-16"
-draft = true
+draft = false
 pinned = false
 image = "komprimiert.2.tif"
 description = "Eines der prachtvollen Gebäude der Stadt Bern, wie es entstand und was der Gedanke dahinter war."
