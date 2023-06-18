@@ -4,5 +4,10 @@ date = "2023-06-16"
 draft = true
 pinned = false
 image = "komprimiert.2.tif"
+description = "Eines der prachtvollen Gebäude der Stadt Bern, wie es entstand und was der Gedanke dahinter war."
 +++
-Noch in Bearbeitung
+Lange Spiegel Fassaden, hohe Wände, imposante Glasscheiben und Korridore voller Kunst. Ein Schiff auf grundgelaufen inmitten von Bern. Die Schweizer Titanic.
+
+# Titel1 
+
+text text
