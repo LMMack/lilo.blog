@@ -6,13 +6,13 @@ pinned = false
 image = "komprimiert.2.tif"
 description = "Eine Reportage über die Titanic II, mit Fokus aus die Entstehung und den Bau des Gebäudes."
 +++
+
+
 {{<lead>}}
 
 Eines der prachtvollen Gebäude der Stadt Bern, wie es entstand und was der Gedanke dahinter war.
 
- Lange Spiegel Fassaden, hohe Wände, imposante Glasscheiben und Korridore voller Kunst. Ein Schiff auf grundgelaufen inmitten von Bern. Die Schweizer Titanic.
-
-{{</lead>}}
+ Lange Spiegel Fassaden, hohe Wände, imposante Glasscheiben und Korridore voller Kunst. Ein Schiff auf grundgelaufen inmitten von Bern. Die Schweizer Titanic. {{</lead>}}
 
 Das Gartentor wird von einer sympathisch lächelnden Dame geöffnet. Der Weg dahinter führt in eine herrschaftliche Villa im Jugendstil. Innen ist es angenehm kühl, und die Steinböden verbreiten ein ehrwürdiges Ambiente, wie in einer Kirche.
 
@@ -43,6 +43,8 @@ So wurde mit Larssen eine riesige Wanne konstruiert, aus der man das Grundwasser
 Anschliessend wurden die eigens für diesen Zweck eingebauten Luken wie Bullaugen geöffnet. In die Untergeschosse der Titanic II strömte das Grundwasser ein und flutete die unteren Etagen. Diese Massnahme war erforderlich, um die Statik des Gebildes während der nächsten Bauphasen zu gewährleisten. Das Wasser stabilisierte die Untergeschosse, so dass nun mit dem Bau der oberen Etagen begonnen werden konnte. Ohne die zusätzliche Stabilität, die das Wasser dem Fundament verlieh, wäre es womöglich im weiteren Bauverlauf in Stücke zerborsten.  
 
 Zeitgleich mit dem Aufbau der oberen Etagen musste allerdings das Wasser aus dem Souterrain wiederum in kontrollierter Weise abgepumpt werden. Das weggepumpte Gewicht des Wassers musste dabei dem durch den Bau hinzugefügten Gewicht entsprechen. Ohne diese Massnahme hätte die Kraft des Wassers die Titanic II möglicherweise hochgedrückt.
+
+![](bbl_titanic-ii-aushub_fotograf-b.-nicod-4.tif)
 
 # Polizeitaucher und Eindringlinge
 
