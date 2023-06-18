@@ -5,4 +5,4 @@ draft = true
 pinned = false
 image = "komprimiert.2.tif"
 +++
-Noch in bearbeitung
+Noch in Bearbeitung
