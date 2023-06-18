@@ -10,9 +10,7 @@ description = "Eine Reportage über die Titanic II, mit Fokus aus die Entstehung
 
 {{<lead>}}
 
-Eines der prachtvollen Gebäude der Stadt Bern, wie es entstand und was der Gedanke dahinter war.
-
-Lange Spiegel Fassaden, hohe Wände, imposante Glasscheiben und Korridore voller Kunst. Ein Schiff auf grundgelaufen inmitten von Bern. Die Schweizer Titanic.
+Eines der prachtvollen Gebäude der Stadt Bern, wie es entstand und was der Gedanke dahinter war. Lange Spiegel Fassaden, hohe Wände, imposante Glasscheiben und Korridore voller Kunst. Ein Schiff auf grundgelaufen inmitten von Bern. Die Schweizer Titanic.
 
 {{</lead>}}
 
