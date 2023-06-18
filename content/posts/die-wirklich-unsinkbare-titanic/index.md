@@ -18,14 +18,22 @@ Eines der prachtvollen Gebäude der Stadt Bern, wie es entstand und was der Geda
 
 text text 
 
-![Die Baupläne der Architekten Rudolf Rast](blue-print-komprimiert3.jpg "Baupläne ")
+![](blue-print-komprimiert3.jpg)
 
 {{<box>}} 
 
-## Die Titanic 
+## Die Titanic
 
 Die Titanic, ein berühmtes Passagierschiff, das im frühen 20. Jahrhundert gebaut wurde, beeindruckt mit seinen pompösen Maßen und seiner tragischen Geschichte. Das Schiff wurde von der White Star Line gebaut und galt als eines der größten Schiffe mit ausserordentlicher Architektur. Die Bauweise der Titanic war geprägt von ihrem imposanten Erscheinungsbild und ihrem innovativen Design. Das Schiff hatte eine Länge von etwa 269 Metern und eine Höhe von rund 53 Metern.
 
 Das Innere war opulent gestaltet mit hochwertigen Materialien wie Holz, Marmor und kunstvollen Verzierungen dabei vereinte es verschiedene Stile. Die Titanic sank tragischerweise im Jahr 1912 durch eine Kollision mit einem Eisberg, doch ihre Architektur bleibt ein eindrucksvolles Zeugnis menschlicher Ingenieurskunst und des Luxus jener Zeit.
+
+ {{</box>}}
+
+{{<box>}}
+
+## Sulgenaubach
+
+ Der Sulgenbach oder auch Könizbach ist ein Bach der sich durch die gebiete Bern und Köniz zieht. Der Bach ist Acht Kilometer lang. Der Sulgenbach gehört zum Flies System der Aare und fliest in diese ab. Er fliest durch das Gebiet der Monbijou wo es fiele kleine Bächlein giebt.
 
  {{</box>}}
