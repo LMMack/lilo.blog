@@ -12,15 +12,7 @@ description = "Eine Reportage über die Titanic II, mit Fokus aus die Entstehung
 
 Eines der prachtvollen Gebäude der Stadt Bern, wie es entstand und was der Gedanke dahinter war.
 
- Lange Spiegel Fassaden, hohe Wände, imposante Glasscheiben und Korridore voller Kunst. Ein Schiff auf grundgelaufen inmitten von Bern. Die Schweizer Titanic.
-
- {{</lead>}}
-
-
-
-{{<lead>}}
-
-Ein Lead steht zwischen zwei solchen Blöcken.
+Lange Spiegel Fassaden, hohe Wände, imposante Glasscheiben und Korridore voller Kunst. Ein Schiff auf grundgelaufen inmitten von Bern. Die Schweizer Titanic.
 
 {{</lead>}}
 
@@ -56,7 +48,7 @@ Anschliessend wurden die eigens für diesen Zweck eingebauten Luken wie Bullauge
 
 Zeitgleich mit dem Aufbau der oberen Etagen musste allerdings das Wasser aus dem Souterrain wiederum in kontrollierter Weise abgepumpt werden. Das weggepumpte Gewicht des Wassers musste dabei dem durch den Bau hinzugefügten Gewicht entsprechen. Ohne diese Massnahme hätte die Kraft des Wassers die Titanic II möglicherweise hochgedrückt.
 
-![](bbl_titanic-ii-aushub_fotograf-b.-nicod-1.jpg)
+![Die Aushebung für den Keller der Titanic II](bbl_titanic-ii-aushub_fotograf-b.-nicod-1.jpg)
 
 # Polizeitaucher und Eindringlinge
 
