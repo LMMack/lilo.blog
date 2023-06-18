@@ -3,6 +3,7 @@ title = "Die wirklich unsinkbare Titanic "
 date = "2023-06-16"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage"]
 image = "bbl_titanic-ii-kurz-vor-fertigstellung_fotograf-stefan-weber.1.jpg"
 description = "Eine Reportage über die Titanic II, mit Fokus aus die Entstehung und den Bau des Gebäudes."
 +++
