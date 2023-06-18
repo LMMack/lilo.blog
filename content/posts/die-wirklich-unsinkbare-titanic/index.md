@@ -1,5 +1,5 @@
 +++
-title = "Die wirklich unsinkbare Titanic"
+title = "Die wirklich unsinkbare Titanic "
 date = "2023-06-16"
 draft = false
 pinned = false
@@ -15,6 +15,16 @@ Eines der prachtvollen Gebäude der Stadt Bern, wie es entstand und was der Geda
  Lange Spiegel Fassaden, hohe Wände, imposante Glasscheiben und Korridore voller Kunst. Ein Schiff auf grundgelaufen inmitten von Bern. Die Schweizer Titanic.
 
  {{</lead>}}
+
+
+
+{{<lead>}}
+
+Ein Lead steht zwischen zwei solchen Blöcken.
+
+{{</lead>}}
+
+
 
 Das Gartentor wird von einer sympathisch lächelnden Dame geöffnet. Der Weg dahinter führt in eine herrschaftliche Villa im Jugendstil. Innen ist es angenehm kühl, und die Steinböden verbreiten ein ehrwürdiges Ambiente, wie in einer Kirche.
 
