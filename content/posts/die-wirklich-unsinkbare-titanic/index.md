@@ -7,11 +7,9 @@ tags = ["Deutsch", "Reportage"]
 image = "bbl_titanic-ii-kurz-vor-fertigstellung_fotograf-stefan-weber.1.jpg"
 description = "Eine Reportage über die Titanic II, mit Fokus auf die Entstehung und den Bau des Gebäudes."
 +++
-
-
 {{<lead>}}
 
-Eines der prachtvollen Gebäude der Stadt Bern, wie es entstand und was der Gedanke dahinter war. Lange Spiegel Fassaden, hohe Wände, imposante Glasscheiben und Korridore voller Kunst. Ein Schiff auf grundgelaufen inmitten von Bern. Die Schweizer Titanic.
+Eines der prachtvollsten Gebäude der Stadt Bern, wie es entstand und was der Gedanke dahinter war. Lange Spiegel Fassaden, hohe Wände, imposante Glasscheiben und Korridore voller Kunst. Ein Schiff auf grundgelaufen inmitten von Bern. Die Schweizer Titanic.
 
 {{</lead>}}
 
@@ -33,9 +31,9 @@ Die Wahl des Standorts fiel auf das zentral in Bern gelegene «Loch im Mattenhof
 
 {{<box>}}
 
-## Sulgenaubach
+## Sulgenbach
 
- Der Sulgenbach oder auch Könizbach ist ein Bach der sich durch die gebiete Bern und Köniz zieht. Der Bach ist Acht Kilometer lang. Der Sulgenbach gehört zum Flies System der Aare und fliest in diese ab. Er fliest durch das Gebiet der Monbijou wo es fiele kleine Bächlein giebt.
+ Der Sulgenbach oder auch Könizbach ist ein Bach, der sich durch die gebiete Bern und Köniz zieht. Der Bach ist acht Kilometer lang. Der Sulgenbach gehört zum Fliessystem der Aare und fliesst in diese ab. Er fliesst durch das Gebiet der Monbijou, wo es viele kleine Bächlein gibt.
 
  {{</box>}}
 
